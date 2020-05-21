@@ -20,6 +20,10 @@ public class myAppTester {
 		System.out.println("Please input your name");
 		name = input.nextLine();
 		greeting(name);
+		/*
+		 * Git is on branch b1
+		 * Let's test the result
+		 */
 	}
 	
 	public static void greeting(String n) {
